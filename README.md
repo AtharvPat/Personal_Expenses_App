@@ -1,16 +1,17 @@
-# personal_expense_app
+# Perosnal Expenses App
 
-A new Flutter project.
+ personal expenses app is a software application that helps users track their personal expenses, budget their finances, and manage their money more effectively.
+
+## Description
+
+A personal expenses app is a software application that helps individuals track their spending, budget their finances, and manage their personal finances more effectively. These apps can be used to track expenses like groceries, rent, utilities, entertainment, and other bills. Personal expenses apps often offer features like automatic categorization of expenses, spending reports, and budgeting tools to help users make informed decisions about their finances.
 
 ## Getting Started
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project is a starting point for a Flutter application.
+### Dependencies
 
-A few resources to get you started if this is your first Flutter project:
+* Operating Systems: Windows 10 or later (64-bit), x86-64 based.
+flutter 3.7.10
+Dart 2.12
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
